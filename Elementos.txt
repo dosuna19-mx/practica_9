@@ -1,0 +1,5 @@
+Roca 0 0
+Extraterrestre 1 1
+Bomba 4 3 1
+Bomba 1 0 1
+Terricola 2 2
