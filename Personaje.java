@@ -7,7 +7,7 @@ public abstract class Personaje extends Elemento {
     public Personaje(String nombre, Escenario escenario, Posicion posicion) {
         super(escenario, posicion);
         this.nombre = nombre;
-        this.puntosDeVida = 100; // Valor por defecto, puedes cambiarlo si es necesario
+        this.puntosDeVida = 100;
     }
 
     public String getNombre() {
